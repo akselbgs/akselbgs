@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aksel</h1>
-<h3 align="center">A college student who loves to code :) </h3>
+<h3 align="center">English Literature student who loves to code :) </h3>
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
