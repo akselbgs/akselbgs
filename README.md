@@ -13,4 +13,4 @@
 
 ![](https://komarev.com/ghpvc/?username=akselbgs&color=blueviolet)
 
->They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.  <br> -Benjamin Franklin
+>Those who would give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.  <br> -Benjamin Franklin
